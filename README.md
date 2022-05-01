@@ -8,4 +8,10 @@ I want to create a project that will do the following:
 2.  Solve issues of world famine,
 3.  Play awesome music.
 
+We should also focus on:
+
+4.  Curing Cancer
+6.  Ending World Poverty
+8.  Stabilizing Climate Change
+
 *Thanks for attending my TED talk.* 
