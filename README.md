@@ -13,5 +13,7 @@ We should also focus on:
 4.  Curing Cancer
 6.  Ending World Poverty
 8.  Stabilizing Climate Change
+9.  And if we can...
+    * A legal, free streaming service that had every movie and t.v. show known to man
 
 *Thanks for attending my TED talk.* 
